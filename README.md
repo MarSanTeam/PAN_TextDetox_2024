@@ -21,7 +21,7 @@
 Addressing the pervasive issue of toxicity in online communication requires innovative solutions beyond mere identification and removal of harmful content. In this paper, we propose a novel approach termed ToxiCleanse RL, which employs Reinforcement Learning (RL), specifically Proximal Policy Optimization (PPO), in tandem with Large Language Models (LLMs), for detoxification through text style transfer (TST). Our method aims to automatically rewrite toxic messages while preserving their original meaning. By utilizing a toxicity-based reward model, we guide the RL fine-tuning process to effectively reduce the generation of toxic language. Empirical evaluation on English and Russian datasets demonstrates the superior performance of our approach compared to existing detoxification techniques, achieving a manual evaluation score of 0.89 (ranked 2nd) for English and 0.70 (ranked 7th) for Russian. These results underscore the potential of RL-based approaches in mitigating toxicity in online discourse, paving the way for safer and more inclusive digital environments.   
 
 
-![Deto25 drawio](https://github.com/user-attachments/assets/b52f26cb-95ad-4a7e-979d-461645cae392)
+!image[Deto25 drawio](https://github.com/user-attachments/assets/b52f26cb-95ad-4a7e-979d-461645cae392)
 
   
 
