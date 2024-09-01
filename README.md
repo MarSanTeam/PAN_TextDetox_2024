@@ -1,7 +1,20 @@
 # Marsan at PAN 2024 TextDetox: ToxiCleanse RL, Paving the Way for Toxicity-Free Online Discourse
 
-**MarSan_AI Team**  
-**PAN 2024**
+ <div align="center">
+<b>Maryam Najafi</b><sup>1, 2</sup>
+<b>Ehsan Tavan</b><sup>2</sup>,
+<b>Simon Colreavy</b><sup>1</sup>,
+
+
+</div>
+<div align="center">
+<sup>1</sup>Department of Computer Science and Information Systems, University of Limerick, Ireland
+</div>
+<div align="center">
+<sup>2</sup>NLP Department, Part AI Research Center, Tehran, Iran
+</div>
+
+ 
 
 ## Overview
 
